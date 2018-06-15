@@ -1,0 +1,10 @@
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\bin\Debug\KisumWaterCompany.exe
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\bin\Debug\KisumWaterCompany.pdb
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\bin\Debug\KisumWaterCompany.xml
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.Form1.resources
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.Resources.resources
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.vbproj.GenerateResource.Cache
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.exe
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.xml
+c:\users\symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.pdb
+C:\Users\Symons\documents\visual studio 2010\Projects\KisumWaterCompany\KisumWaterCompany\obj\x86\Debug\KisumWaterCompany.CheckOut.resources
